@@ -1,5 +1,3 @@
-package PlaylistProject;
-
 import java.util.Scanner;
 
 public class PlayListMain {
